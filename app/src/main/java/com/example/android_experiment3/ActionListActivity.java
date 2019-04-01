@@ -61,6 +61,9 @@ public class ActionListActivity extends AppCompatActivity {
             listView.clearChoices();
         }
 
+
+
+
         //进入多选模式调用，初始化ActionBar的菜单和布局
         @Override
         public boolean onCreateActionMode(ActionMode mode, Menu menu) {
